@@ -1,0 +1,43 @@
+h1  {
+    color: black;
+    size: 100;
+    text-align: center;
+    }
+h2{
+        color: black;
+        size: 100;
+        text-align: center;
+}
+h3{
+    color: black;
+    size: 90;
+    text-align: left;  
+}
+
+p   {
+    color: white;
+    text-align: left ;
+    font: oblique bold 120% cursive;
+    line-height: 200%;
+    }
+
+img {
+    display: block;
+    }
+
+
+body{
+
+    background: #0f6bd4;
+}
+
+.centrado{
+	margin:10px auto;
+	display:block;
+    }
+
+li{
+    color: white;
+    text-align: left;
+    font: oblique bold 120% cursive;
+}
